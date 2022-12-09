@@ -1,4 +1,4 @@
-package javaDersler;
+package Odev1;
 
 public class Question2 {
 	
