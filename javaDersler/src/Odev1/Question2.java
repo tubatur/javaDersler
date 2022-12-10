@@ -39,7 +39,7 @@ System.out.println("longMin:" + minDegerLong);
 
 
 
-System.out.println("F-max:" + Float.MAX_VALUE);
+System.out.println("F-max:" + Float.MAX_VALUE); 
 System.out.println("F-Min:" + Float.MIN_VALUE);
 
 
